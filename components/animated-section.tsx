@@ -2,7 +2,8 @@
 
 import type React from "react"
 
-import { motion, useInView } from "framer-motion"
+import { motion } from "framer-motion"
+import { useInView } from "framer-motion"
 import { useRef } from "react"
 
 interface AnimatedSectionProps {
