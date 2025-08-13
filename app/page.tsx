@@ -29,7 +29,7 @@ export default function W4DigitalTemplate() {
   return (
     <div className="font-sans text-gray-800">
       {/* Hero Section */}
-      <section className="bg-gray-900 text-white py-20 text-center px-4">
+      <section className="bg-red-900 text-white py-20 text-center px-4">
         <h1 className="text-4xl md:text-5xl font-bold mb-4">
           Mais vendas. Mais eficiência. Mais resultados.
         </h1>
@@ -38,13 +38,13 @@ export default function W4DigitalTemplate() {
         </p>
         <div className="flex flex-col md:flex-row gap-4 justify-center">
           <a
-            href="https://wa.me/seunumerowhatsapp"
+            href="https://wa.me/558199895415"
             className="bg-green-500 hover:bg-green-600 text-white font-semibold py-3 px-6 rounded-lg shadow-lg transition"
           >
             📞 Falar agora no WhatsApp
           </a>
           <a
-            href="#diagnostico"
+            href="https://wa.me/558199895415"
             className="bg-blue-500 hover:bg-blue-600 text-white font-semibold py-3 px-6 rounded-lg shadow-lg transition"
           >
             📅 Solicitar diagnóstico gratuito
@@ -133,13 +133,13 @@ export default function W4DigitalTemplate() {
         <p className="text-lg mb-8">Vamos criar juntos a sua estratégia.</p>
         <div className="flex flex-col md:flex-row gap-4 justify-center">
           <a
-            href="https://wa.me/seunumerowhatsapp"
+            href="https://wa.me/558199895415"
             className="bg-green-500 hover:bg-green-600 text-white font-semibold py-3 px-6 rounded-lg shadow-lg transition"
           >
             📞 Falar agora pelo WhatsApp
           </a>
           <a
-            href="#diagnostico"
+            href="https://wa.me/558199895415"
             className="bg-blue-500 hover:bg-blue-600 text-white font-semibold py-3 px-6 rounded-lg shadow-lg transition"
           >
             📅 Agendar diagnóstico gratuito
